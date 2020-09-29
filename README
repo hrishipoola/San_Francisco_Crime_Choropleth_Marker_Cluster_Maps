@@ -1,1 +1,3 @@
-# San_Francisco_Crime_Choropleth_Market_Cluster_Maps
+San Francisco Crime Choropleth, Marker, and Cluster Maps
+
+In our last post, we created FiveThirtyEight-style visuals and choropleth maps after cleaning and wrangling data from an official UN data set on U.S. immigration (https://crawstat.com/2020/06/26/fivethirtyeight-style-visuals-and-choropleth-maps-for-u-s-immigration/). Today, we'll work with San Francisco crime data of over 150,000 crime incidents in 2016 to create interactive choropleth, marker, and cluster maps with pop-up labels using folium. Let's dive in. 
